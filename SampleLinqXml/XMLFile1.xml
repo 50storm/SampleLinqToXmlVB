@@ -1,0 +1,15 @@
+﻿<Persons>
+  <Person>
+    <Name>Hiroshi</Name>
+    <age>35</age>
+  </Person>
+  <Person>
+    <Name>Takashi</Name>
+    <age>35</age>
+  </Person>
+   <Person>
+    <Name>Toshiyuki</Name>
+    <age>35</age>
+  </Person>
+  
+</Persons>

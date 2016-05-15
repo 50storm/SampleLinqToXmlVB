@@ -1,0 +1,9 @@
+c:\users\hiro\documents\visual studio 2015\Projects\SampleLinqXml\SampleLinqXml\obj\Debug\SampleLinqXml.Resources.resources
+c:\users\hiro\documents\visual studio 2015\Projects\SampleLinqXml\SampleLinqXml\obj\Debug\SampleLinqXml.vbproj.GenerateResource.Cache
+c:\users\hiro\documents\visual studio 2015\Projects\SampleLinqXml\SampleLinqXml\bin\Debug\SampleLinqXml.exe
+c:\users\hiro\documents\visual studio 2015\Projects\SampleLinqXml\SampleLinqXml\bin\Debug\SampleLinqXml.pdb
+c:\users\hiro\documents\visual studio 2015\Projects\SampleLinqXml\SampleLinqXml\bin\Debug\SampleLinqXml.xml
+c:\users\hiro\documents\visual studio 2015\Projects\SampleLinqXml\SampleLinqXml\obj\Debug\SampleLinqXml.exe
+c:\users\hiro\documents\visual studio 2015\Projects\SampleLinqXml\SampleLinqXml\obj\Debug\SampleLinqXml.xml
+c:\users\hiro\documents\visual studio 2015\Projects\SampleLinqXml\SampleLinqXml\obj\Debug\SampleLinqXml.pdb
+c:\users\hiro\documents\visual studio 2015\Projects\SampleLinqXml\SampleLinqXml\obj\Debug\SampleLinqXml.vbprojResolveAssemblyReference.cache
